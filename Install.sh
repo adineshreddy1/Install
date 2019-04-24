@@ -3,6 +3,9 @@ echo "***********Updating started***********************************************
 echo "***********Installing GIT**********"
         apt-get install git
 echo "***********installed git**********************************************************"
+echo "***********install Vim ***********"
+        apt-get install vim
+echo "***********installed vim ********************************************************"
 echo "***********install curl ***********"
         apt-get install curl
 echo "***********installed curl ********************************************************"
@@ -12,6 +15,7 @@ echo "***********installed DOCKER **********************************************
 echo "***********install Docker compose *"
 	apt-get install docker-compose
 echo "***********installed Docker compose **********************************************"
+
 
 echo  "Checking "
 echo "**********************************************************************************"
