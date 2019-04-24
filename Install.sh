@@ -20,3 +20,8 @@ curl --version
 docker --version
 docker-compose --version
 echo "******COMPLETED CURL,GIT DOCKER,DOCKER COMPOSE************************************"
+
+mkdir -p /root/HyperledgerFabric/
+git clone https://github.com/hyperledger/fabric-samples.git
+cd fabric-samples/
+curl -sSL http://bit.ly/2ysbOFE | bash -s\
