@@ -29,4 +29,4 @@ mkdir -p /root/HyperledgerFabric/
 cd /root/HyperledgerFabric/
 git clone https://github.com/hyperledger/fabric-samples.git
 cd fabric-samples/
-curl -sSL http://bit.ly/2ysbOFE | bash -s\
+curl -sSL http://bit.ly/2ysbOFE | bash -s
